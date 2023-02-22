@@ -19,8 +19,8 @@ int main()
     int n = 5;
     factorial(&n);
     
-    printf("%d", n);
+    printf("%d", n); // Output : 120 
     
     
-    
+
 }
