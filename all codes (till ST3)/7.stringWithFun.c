@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-// NULL character & lenght of character string.
+// NULL character & length of character string.
 
 int main(){
     
