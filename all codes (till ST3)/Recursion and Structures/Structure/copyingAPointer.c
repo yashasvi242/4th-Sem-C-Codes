@@ -1,20 +1,12 @@
 #include<stdio.h>
 
-//✔️ - passing whole object into function using pointers (note : here new copy of object will not be created, rather only its address is passed, so changes will take place in original object itself)
+//✔️ - here new copy student 's2' of student 's' is created and all the datamembers and values of s will be copied in s2 also.
+
 struct student{
 
     int rn;
     char name[20];
 };
-
-// fun
-void displayDetails(struct student* sPtr){
-
-    printf("\nDisplaying name : %s",sPtr -> name);
-    printf("\nDisplaying roll : %d",sPtr -> rn);
-
-}
-
 
 int main(){
 
