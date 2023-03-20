@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// sort an array (using bubble sort)
+// sort an array (using BUBBLE Sort)
+// Time : O(N^2) Space : O(1)
 
 int main(){
     int arr[7] = {10,9,8,7,6,5,4};
