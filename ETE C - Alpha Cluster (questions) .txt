@@ -1,0 +1,41 @@
+ALPHA CLUSTER BOTH SETS-1,2 
+---------------------------
+
+Set-1 (for odd roll numbers)
+
+5-Marks :-
+
+Q1) : fibonacci number using recursion
+q2) : print below star pyramid pattern for 
+   * (n=3)
+  * * 
+ * * * 
+q3) : reverse a int 'n' eg 1234 => 4321 
+q4) : sort and array and return the diff of 2nd largest and 2nd smallest element.
+
+10 Marks :-
+
+q5) : Find the min and max element of array.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Set-2 (for even roll numbers)
+
+10 Marks :-
+
+Q1) : Given an array, print 'Yes' if the sum of all elements of an array is a perfect cube, else print the 
+how much should we add more to this 'sum' to become a perfect cube.
+eg. arr = {10,8,2,7}
+ans : Yes (because sum = 27 is perfect cube of 3)
+eg. arr = {10,8,2,5}
+ans : 2 (if we add 2 more to this array, we will get a perfect cube i.e 27)
+
+5 Marks :-
+
+Q2) : if code for 1 is 'a' 2 is 'b' 3 is 'c' and so on, given an integer 'n' convert it into its respective code 
+string 
+eg. 1235 => abce
+Q3) : flip the string's case of each character, eg. abrDFe => ABRdfE
+Q4) : Find Product of all digits of a number ‘n’.
+Eg. 12345 => 12
+
+-------------------------------------------------------------------------------------------------------
